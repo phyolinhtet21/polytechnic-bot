@@ -1,0 +1,114 @@
+[INFO]
+ကျောင်းအမည်: Polytechnic Maubin
+တည်နေရာ: မအူပင်မြိုနယ်၊ မြန်မာနိုင်ငံ
+ဖုန်းနံပါတ်: 09665544356
+Email: pumub.edu.mm
+
+[FACULTY]
+FC ဆိုသည်မှာ Faculty of Computing ဖြစ်သည်။
+FE ဆိုသည်မှာ Faculty of Engineering ဖြစ်သည်။
+
+FC တွင် ပထမနှစ်မှာ Major မခွဲသေးဘဲ FC တစ်ခုတည်းဖြင့် တက်ရောက်သည်။
+ဒုတိယနှစ်မှစ၍ CS နှင့် CT ဟု Major ခွဲသည်။
+
+CS ဆိုသည်မှာ Computer Science ဖြစ်သည်။
+သင်ကြားသည့်ဘာသာရပ်များ: Programming, Data Structures, Algorithms, AI, Database
+တက်ရောက်ရမည့်နှစ်: ၄ နှစ်
+ရရှိမည့်ဘွဲ: B.Sc Computer Science
+လုပ်ကိုင်နိုင်သောအလုပ်များ: Software Developer, Data Scientist, AI Engineer
+
+CT ဆိုသည်မှာ Computer Technology ဖြစ်သည်။
+သင်ကြားသည့်ဘာသာရပ်များ: Networking, Hardware, System Administration, Cybersecurity
+တက်ရောက်ရမည့်နှစ်: ၄ နှစ်
+ရရှိမည့်ဘွဲ: B.Sc Computer Technology
+လုပ်ကိုင်နိုင်သောအလုပ်များ: Network Engineer, IT Support, System Admin
+
+FE တွင် Major လေးခုရှိသည်။
+
+Sarval ဆိုသည်မှာ Civil Engineering ဖြစ်သည်။
+သင်ကြားသည့်ဘာသာရပ်များ: Civil Structures, Surveying, Construction Management
+တက်ရောက်ရမည့်နှစ်: ၅ နှစ်
+ရရှိမည့်ဘွဲ: B.E Sarval
+လုပ်ကိုင်နိုင်သောအလုပ်များ: Civil Engineer, Site Engineer, Project Manager
+
+EE ဆိုသည်မှာ Electrical Engineering ဖြစ်သည်။
+သင်ကြားသည့်ဘာသာရပ်များ: Circuit Design, Power Systems, Electronics, Control Systems
+တက်ရောက်ရမည့်နှစ်: ၅ နှစ်
+ရရှိမည့်ဘွဲ: B.E Electrical
+လုပ်ကိုင်နိုင်သောအလုပ်များ: Electrical Engineer, Power Engineer, Electronics Designer
+
+ME ဆိုသည်မှာ Mechanical Engineering ဖြစ်သည်။
+သင်ကြားသည့်ဘာသာရပ်များ: Mechanical Design, Thermodynamics, Fluid Mechanics, Manufacturing
+တက်ရောက်ရမည့်နှစ်: ၅ နှစ်
+ရရှိမည့်ဘွဲ: B.E Mechanical
+လုပ်ကိုင်နိုင်သောအလုပ်များ: Mechanical Engineer, Production Engineer, Design Engineer
+
+Architecture ဆိုသည်မှာ ဗိသုကာပညာဖြစ်သည်။
+သင်ကြားသည့်ဘာသာရပ်များ: Architectural Design, Building Technology, Urban Planning, Interior Design
+တက်ရောက်ရမည့်နှစ်: ၅ နှစ်
+ရရှိမည့်ဘွဲ: B.Arch
+လုပ်ကိုင်နိုင်သောအလုပ်များ: Architect, Urban Planner, Interior Designer
+
+[GENERAL]
+အဆောင်ကြေး (နှစ်အားလုံးအတွက် တူညီသည်):
+တစ်လကြေး: 20,000 ကျပ်
+ပေးဆောင်ရမည့်လရေတ်: 4 လစာ
+အဆောင်ဝင်ရောက်ခွင့်အတွက် ကျောင်းသားရေးရာဌာနသို ဆက်သွယ်ရမည်။
+
+ပထမနှစ် ကျောင်းအပ်ရာတွင် တင်ရမည့်စာရွက်စာတမ်းများ:
+အောင်လက်မှတ်မိတ္တူ: 1 ရွက်
+အမှတ်စာရင်းမိတ္တူ: 1 ရွက်
+မိမိမှတ်ပုံတင်မိတ္တူ: 2 ရွက်
+မိဘမှတ်ပုံတင်မိတ္တူ: 2 ရွက်
+အိမ်ထောင်စုစာရင်းမိတ္တူ: 2 ရွက်
+ရဲစခန်းထောက်ခံစာ: 1 ရွက်
+ရပ်ကွက်ထောက်ခံစာ: 1 ရွက်
+
+ဒုတိယနှစ်မှ နောက်နှစ်များ ကျောင်းအပ်ရာတွင် တင်ရမည့်စာရွက်စာတမ်းများ:
+မိမိမှတ်ပုံတင်မိတ္တူ: 2 ရွက်
+မိဘမှတ်ပုံတင်မိတ္တူ: 2 ရွက်
+အိမ်ထောင်စုစာရင်းမိတ္တူ: 2 ရွက်
+ရဲစခန်းထောက်ခံစာ: 1 ရွက်
+ရပ်ကွက်ထောက်ခံစာ: 1 ရွက်
+
+[ADMISSION:2025-2026]
+FC=360
+FE-ME=360
+FE-EE=370
+FE-Architecture=375
+FE-Sarval=380
+
+[ADMISSION:2026-2027]
+FC=362
+FE-ME=361
+FE-EE=372
+FE-Architecture=377
+FE-Sarval=383
+
+[OPENDATE:2025-2026]
+sem1=ဇွန်လ 8 ရက်နေ့
+sem2=နိုဝင်ဘာလ 2 ရက်နေ့
+
+[OPENDATE:2026-2027]
+sem1=ဇွန်လ 17 ရက်နေ့
+sem2=နိုဝင်ဘာလ 2 ရက်နေ့
+
+[YEAR:2025-2026]
+ကျောင်းဝင်ကြေး:
+FC ကျောင်းဝင်ကြေး: 58,000 ကျပ်
+FE ကျောင်းဝင်ကြေး: 62,000 ကျပ်
+
+ကျောင်းအပ်ရက်:
+ပထမ Semester ကျောင်းအပ်ရက်: ဇွန်လ 2025
+ဒုတိယ Semester ကျောင်းအပ်ရက်: နိုဝင်ဘာလ 2025
+တစ်နှစ်လျှင် Semester နှစ်ကြိမ်ရှိသည်။
+
+[YEAR:2026-2027]
+ကျောင်းဝင်ကြေး:
+FC ကျောင်းဝင်ကြေး: 58,000 ကျပ်
+FE ကျောင်းဝင်ကြေး: 62,000 ကျပ်
+
+ကျောင်းအပ်ရက်:
+ပထမ Semester ကျောင်းအပ်ရက်: ဇွန်လ 2026
+ဒုတိယ Semester ကျောင်းအပ်ရက်: နိုဝင်ဘာလ 2026
+တစ်နှစ်လျှင် Semester နှစ်ကြိမ်ရှိသည်။
